@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
 body {
   text-align: center;
   background-color: #7D000F;
@@ -6,7 +9,7 @@ body {
   font-family: copperplate;
 }
 h1 {
-  font-family: copperplate;	
+  font-family: righteous, cursive;	
   font-size: 50px;
   font-weight: 700;
   text-transform: capitalize;	
@@ -15,7 +18,7 @@ h1, h2 {
   color: #eab52b;
 }
 h2 {
-  font-family: "Lucida Calligraphy";
+  font-family: satify, cursive;
 }
 
 hr {
